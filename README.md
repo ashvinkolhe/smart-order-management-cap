@@ -23,4 +23,17 @@ File or Folder | Purpose
 ## Learn More
 
 Learn more at https://cap.cloud.sap/docs/get-started/.
-# smart-order-management-cap
+# Smart Order Management - SAP CAP Project
+
+Tech Stack
+- SAP CAP
+- SAP Fiori Elements
+- SAPUI5
+- SAP HANA Cloud
+- SAP BTP Cloud Foundry
+
+Features
+- Order management
+- Draft handling
+- Role based authorization
+- Event-driven architecture
